@@ -19,6 +19,7 @@
 기술 블로그보다는 **현장 노트**에 가깝습니다. 코드 자랑이 아니라, 이 현장에서 왜 이 선택을 했는지를 기록합니다.
 
 - [2주 약 5,400회를 버틴 포토부스는 무엇이 달랐을까](docs/articles/how-we-ran-5400-sessions.md)
+- [8m 벽면에 LiDAR를 붙이고 배운 것 — 정밀함보다 중요한 것](docs/articles/lidar-wall-generous-touch.md)
 - [우리는 왜 '기술 블로그' 대신 '현장 노트'를 쓰기로 했나](docs/articles/why-we-write-field-notes.md)
 
 ### 📦 패키지 (`packages/`)
