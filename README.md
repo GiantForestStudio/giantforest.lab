@@ -9,6 +9,9 @@
 
 🔗 **[giant-forest-studio.web.app](https://giant-forest-studio.web.app)** — 태림 스튜디오 홈페이지
 
+> 여기 올라온 글은 [홈페이지](https://giant-forest-studio.web.app)에서도 읽을 수 있습니다.
+> 이 레포가 원본이고, 홈페이지는 빌드 시 여기서 가져가 렌더링합니다.
+
 ## 무엇이 있나요
 
 ### 📝 현장 노트 (`docs/articles/`)
