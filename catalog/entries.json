@@ -18,5 +18,15 @@
     "tags": ["meta", "field-notes"],
     "published_at": "2026-03-14",
     "featured": false
+  },
+  {
+    "slug": "lidar-wall-generous-touch",
+    "type": "article",
+    "title": "8m 벽면에 LiDAR를 붙이고 배운 것 — 정밀함보다 중요한 것",
+    "summary": "호쿠요 LiDAR, 5cm 오차, 아이들의 손가락. 에버랜드 현장에서 인터랙션 규칙을 다시 설계한 이야기.",
+    "url": "docs/articles/lidar-wall-generous-touch.md",
+    "tags": ["lidar", "interactive-wall", "field-notes"],
+    "published_at": "2026-03-14",
+    "featured": false
   }
 ]
